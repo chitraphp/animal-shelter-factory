@@ -1,7 +1,7 @@
-<h1> Field Trip Permission </h1>
+<h1> Animal Shelter </h1>
 Description
 
-Student roster app with permission slip that allows the user to add student names and also detect if they have been added or not onto the slip.
+Animal shelter app to categorize and list their animals by type. User should be able to add an animal to the website, assign it as a cat, dog, bunny, etc and then list all of the animals for each type on the website. If a user clicks on an animal it should remove the animal from that list and then assign it to a list that shows animals that have been adopted.
 
 <b> April 21st, 2015 | Erica Cha & Chitra Atmakuru</b>
 
